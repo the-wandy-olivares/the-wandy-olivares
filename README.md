@@ -1,1 +1,1 @@
-Creador de Olivares Creative: desarrollo apps web/móvil para empresas con UX, seguridad y eficiencia, con tecnologias como Python, Django, React, Sql, React Native.
+Administrado de proyecto en Olivares Creative, desarrollo apps web/móvil con UX, UI, seguridad y practica, con tecnologias como Python, Django, React, Sql, React Native y otras mas tecnologia a dia de hoy he trabajado en distintas startup
